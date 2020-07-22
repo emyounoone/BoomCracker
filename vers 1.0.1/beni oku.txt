@@ -1,0 +1,1 @@
+indir.gifle uygulama aynı yerde bulunmalıdır aksi halde uygulama çalışmamaktadır.
